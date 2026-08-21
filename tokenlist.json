@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-06-03T19:21:26.280Z",
+  "timestamp": "2026-08-19T21:28:41.277Z",
   "version": {
-    "major": 47,
-    "minor": 509,
+    "major": 48,
+    "minor": 535,
     "patch": 1936
   },
   "tokens": [
@@ -22,6 +22,17 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x0317f9f077d90193871a4ee1f1681e24c4a2671c.png"
+    },
+    {
+      "address": "0x056B269Eb1f75477a8666ae8C7fE01b64dD55eCc",
+      "name": "USD3",
+      "symbol": "USD3",
+      "decimals": 6,
+      "website": "https://www.3jane.xyz",
+      "description": "USD3 is a credit-backed yieldcoin by 3Jane, earning from warehouse facilities, forward-flow programs, and credit lines.",
+      "explorer": "https://etherscan.io/token/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc",
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc.png"
     },
     {
       "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
@@ -136,6 +147,22 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x8236a87084f8b84306f72007f36f2618a5634494.png"
     },
     {
+      "address": "0x873d589F38abBCDD1fCA27261aBA2F1aA0661d44",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x873d589f38abbcdd1fca27261aba2f1aa0661d44.png"
+    },
+    {
+      "address": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
+      "name": "PUPCUP",
+      "symbol": "PUPCUP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x884649f1fe3bf3ae0bd720eaf660cb561dce39ef.png"
+    },
+    {
       "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
       "name": "Berachain STONE",
       "symbol": "beraSTONE",
@@ -242,6 +269,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0xb8d89678e75a973e74698c976716308abb8a46a4.png"
     },
     {
+      "address": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+      "name": "K9",
+      "symbol": "K9",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xbc920c7fa25d3cd5606394aa4c6751d71dcb7930.png"
+    },
+    {
       "name": "Wrapped XTZ",
       "symbol": "WXTZ",
       "decimals": 18,
@@ -274,6 +309,15 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0xe55da2fed43cc1732f2f2b3fd0dbd71997b4fb30.png"
     },
     {
+      "address": "0xe6a60d2886b11256C24C128210159133096e5CcF",
+      "name": "RWA Index Token",
+      "symbol": "iREET",
+      "decimals": 18,
+      "explorer": "https://etherscan.io/token/0xe6a60d2886b11256c24c128210159133096e5ccf",
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xe6a60d2886b11256c24c128210159133096e5ccf.png"
+    },
+    {
       "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
       "name": "Eigen",
       "symbol": "EIGEN",
@@ -288,6 +332,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xf4c13d631450de6b12a19829e37c8e2826891dc4.png"
+    },
+    {
+      "address": "0x1A149E21bd3E74b7018Db79C988B4Ba3bbC1873d",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0x1a149e21bd3e74b7018db79c988b4ba3bbc1873d.png"
     },
     {
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
@@ -396,6 +448,16 @@
       "logoURI": "https://cdn.oku.trade/logos/100/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
     },
     {
+      "address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
+      "name": "Monerium EURe",
+      "symbol": "EURe",
+      "decimals": 18,
+      "website": "https://monerium.com",
+      "description": "EURe is regulated euro e-money issued on-chain by Monerium.",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430.png"
+    },
+    {
       "name": "Wrapped Backed NVIDIA",
       "website": "https://backed.fi/",
       "description": "wbNVDA is a wrapper of bNVDA, a tokenized NVIDIA product, issued by Backed",
@@ -405,6 +467,16 @@
       "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
       "chainId": 100,
       "logoURI": "https://cdn.oku.trade/logos/100/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+    },
+    {
+      "address": "0x8E34bfEC4f6Eb781f9743D9b4af99CD23F9b7053",
+      "name": "Monerium GBPe",
+      "symbol": "GBPe",
+      "decimals": 18,
+      "website": "https://monerium.com",
+      "description": "GBPe is regulated pound sterling e-money issued on-chain by Monerium.",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x8e34bfec4f6eb781f9743d9b4af99cd23f9b7053.png"
     },
     {
       "name": "Backed NVIDIA",
@@ -1604,6 +1676,15 @@
       "logoURI": "https://cdn.oku.trade/logos/137/0xf7a10f5177aad02a8daf7a7ebdd918ed5d14fee0.png"
     },
     {
+      "address": "0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
+      "name": "Forte AUD",
+      "symbol": "AUDF",
+      "decimals": 6,
+      "explorer": "https://polygon.blockscout.com/token/0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
+      "chainId": 137,
+      "logoURI": "https://cdn.oku.trade/logos/137/0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b.png"
+    },
+    {
       "address": "0xd82955acB89a2524dC934B4D008DA5ed95ce2050",
       "name": "Nvidia Corporation Tokenized by Sailing",
       "symbol": "NVDAs",
@@ -1706,6 +1787,15 @@
       "decimals": 18,
       "chainId": 143,
       "logoURI": "https://cdn.oku.trade/logos/143/0xb37476cb1f6111cc682b107b747b8652f90b0984.png"
+    },
+    {
+      "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "decimals": 18,
+      "explorer": "https://monadscan.com/token/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
     },
     {
       "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
@@ -2284,6 +2374,22 @@
       "logoURI": "https://cdn.oku.trade/logos/1672/0x1f4b7011ee3d53969bb67f59428a9ec0477856e9.png"
     },
     {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x4809010926aec940b550d34a46a52739f996d75d.png"
+    },
+    {
+      "address": "0x4b01436d82dFF601281F7ebdF44e73a47d77Ee3D",
+      "name": "BTCVC",
+      "symbol": "BTCVC",
+      "decimals": 8,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x4b01436d82dff601281f7ebdf44e73a47d77ee3d.png"
+    },
+    {
       "address": "0x51e2A24742Db77604B881d6781Ee16B5b8fcBE29",
       "name": "ChainLink Token",
       "symbol": "LINK",
@@ -2298,6 +2404,14 @@
       "decimals": 18,
       "chainId": 1672,
       "logoURI": "https://cdn.oku.trade/logos/1672/0x52c48d4213107b20bc583832b0d951fb9ca8f0b0.png"
+    },
+    {
+      "address": "0x54dF79D8EDf36D15cd83fbeDbdd90807fC828934",
+      "name": "Staked Yuzu USD",
+      "symbol": "syzUSD",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x54df79d8edf36d15cd83fbedbdd90807fc828934.png"
     },
     {
       "address": "0xC879C018dB60520F4355C26eD1a6D572cdAC1815",
@@ -3247,6 +3361,14 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x168dbf404d33cacc752b27df4e66116d1758b7b0.png"
     },
     {
+      "address": "0x1Aad217B8F78dbA5E6693460e8470F8b1A3977f3",
+      "name": "Strategy PP Variable xStock",
+      "symbol": "STRCX",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x1aad217b8f78dba5e6693460e8470f8b1a3977f3.png"
+    },
+    {
       "address": "0x20a22B65Aa96AF3EBCf995445343b11A47efF4f0",
       "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
       "symbol": "SPYs",
@@ -3349,6 +3471,14 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://cdn.oku.trade/logos/42161/0x40fbb60bcb38d64cbc42329a12cf50e0a5bcfc58.png"
+    },
+    {
+      "address": "0x4122047076a1106618e984a8776A3F7bbcB1d429",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x4122047076a1106618e984a8776a3f7bbcb1d429.png"
     },
     {
       "name": "WrappedM by M^0",
@@ -3639,6 +3769,15 @@
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
     },
     {
+      "address": "0xCCF663b1fF11028f0b19058d0f7B674004a40746",
+      "name": "Mento British Pound",
+      "symbol": "GBPm",
+      "decimals": 18,
+      "explorer": "https://celoscan.io/token/0xccf663b1ff11028f0b19058d0f7b674004a40746",
+      "chainId": 42220,
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xccf663b1ff11028f0b19058d0f7b674004a40746.png"
+    },
+    {
       "address": "0x004A476B5B76738E34c86C7144554B9d34402F13",
       "name": "Curve DAO Token",
       "symbol": "CRV",
@@ -3831,6 +3970,214 @@
       "logoURI": "https://cdn.oku.trade/logos/43114/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
     },
     {
+      "address": "0x1A149E21bd3E74b7018Db79C988B4Ba3bbC1873d",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cdn.oku.trade/logos/43114/0x1a149e21bd3e74b7018db79c988b4ba3bbc1873d.png"
+    },
+    {
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+      "symbol": "SPY",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x117cc2133c37b721f49de2a7a74833232b3b4c0c.png"
+    },
+    {
+      "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+      "name": "Amazon • Robinhood Token",
+      "symbol": "AMZN",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x12f190a9f9d7d37a250758b26824b97ce941bf54.png"
+    },
+    {
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "name": "Alphabet Class A • Robinhood Token",
+      "symbol": "GOOGL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3.png"
+    },
+    {
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+      "name": "Tesla • Robinhood Token",
+      "symbol": "TSLA",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x322f0929c4625ed5bad873c95208d54e1c003b2d.png"
+    },
+    {
+      "address": "0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f",
+      "name": "iShares Silver Trust • Robinhood Token",
+      "symbol": "SLV",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f.png"
+    },
+    {
+      "address": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock • Robinhood Token",
+      "symbol": "SPCX",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea.png"
+    },
+    {
+      "address": "0x5f10A1C971B69e47e059e1dC91901B59b3fB49C3",
+      "name": "CoreWeave • Robinhood Token",
+      "symbol": "CRWV",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3.png"
+    },
+    {
+      "address": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
+      "name": "Coinbase • Robinhood Token",
+      "symbol": "COIN",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x6330d8c3178a418788df01a47479c0ce7ccf450b.png"
+    },
+    {
+      "address": "0x822CC93fFD030293E9842c30BBD678F530701867",
+      "name": "Bloom Energy • Robinhood Token",
+      "symbol": "BE",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x822cc93ffd030293e9842c30bbd678f530701867.png"
+    },
+    {
+      "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+      "name": "AMD • Robinhood Token",
+      "symbol": "AMD",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x86923f96303d656e4aa86d9d42d1e57ad2023fdc.png"
+    },
+    {
+      "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+      "name": "Palantir Technologies • Robinhood Token",
+      "symbol": "PLTR",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a.png"
+    },
+    {
+      "address": "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+      "name": "iShares 0-3 Month Treasury Bond • Robinhood Token",
+      "symbol": "SGOV",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x92fd66527192e3e61d4ddd13322aa222de86f9b5.png"
+    },
+    {
+      "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
+      "name": "Sandisk Corporation • Robinhood Token",
+      "symbol": "SNDK",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xb90a19ff0af67f7779aff50a882a9cff42446400.png"
+    },
+    {
+      "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
+      "name": "Invesco QQQ • Robinhood Token",
+      "symbol": "QQQ",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xd5f3879160bc7c32ebb4dc785f8a4f505888de68.png"
+    },
+    {
+      "address": "0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344",
+      "name": "United States Oil Fund • Robinhood Token",
+      "symbol": "USO",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344.png"
+    },
+    {
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "name": "Apple • Robinhood Token",
+      "symbol": "AAPL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xaf3d76f1834a1d425780943c99ea8a608f8a93f9.png"
+    },
+    {
+      "address": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
+      "name": "Alibaba • Robinhood Token",
+      "symbol": "BABA",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xad25ac6c84d497db898fa1e8387bf6af3532a1c4.png"
+    },
+    {
+      "address": "0xb0992820E760d836549ba69BC7598b4af75dEE03",
+      "name": "Oracle • Robinhood Token",
+      "symbol": "ORCL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xb0992820e760d836549ba69bc7598b4af75dee03.png"
+    },
+    {
+      "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      "name": "Meta Platforms • Robinhood Token",
+      "symbol": "META",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xc0d6457c16cc70d6790dd43521c899c87ce02f35.png"
+    },
+    {
+      "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+      "name": "Intel • Robinhood Token",
+      "symbol": "INTC",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xc72b96e0e48ecd4dc75e1e45396e26300bc39681.png"
+    },
+    {
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "name": "NVIDIA • Robinhood Token",
+      "symbol": "NVDA",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec.png"
+    },
+    {
+      "address": "0xd917B029C761D264c6A312BBbcDA868658eF86a6",
+      "name": "USA Rare Earth • Robinhood Token",
+      "symbol": "USAR",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xd917b029c761d264c6a312bbbcda868658ef86a6.png"
+    },
+    {
+      "address": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
+      "name": "Circle Internet Group • Robinhood Token",
+      "symbol": "CRCL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5.png"
+    },
+    {
+      "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+      "name": "Microsoft • Robinhood Token",
+      "symbol": "MSFT",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xe93237c50d904957cf27e7b1133b510c669c2e74.png"
+    },
+    {
+      "address": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
+      "name": "Micron Technology • Robinhood Token",
+      "symbol": "MU",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xff080c8ce2e5feadaca0da81314ae59d232d4afd.png"
+    },
+    {
       "address": "0x0458965C6A85b14E022C1920276197c972f0Fd2f",
       "name": "SEED Token",
       "symbol": "SEED",
@@ -3880,6 +4227,14 @@
       "decimals": 6,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x79a02482a880bce3f13e09da970dc34db4cd24d1.png"
+    },
+    {
+      "address": "0x8e500B8fE2cAF4332D07FbFB448196e764649F4E",
+      "name": "Worldchain Army",
+      "symbol": "WARMY",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x8e500b8fe2caf4332d07fbfb448196e764649f4e.png"
     },
     {
       "address": "0xD55c9869bf65D87ce183CA4f87400f64054804cb",
@@ -5076,6 +5431,15 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x1dc7edcf1368285e77fdb2e9bfba56f48ec317bd.png"
     },
     {
+      "address": "0x1a44233FAe8D50F1AeB3a5d58dd426ff4814Cb53",
+      "name": "Squuid",
+      "symbol": "QUID",
+      "decimals": 18,
+      "explorer": "https://basescan.org/token/0x1a44233fae8d50f1aeb3a5d58dd426ff4814cb53",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x1a44233fae8d50f1aeb3a5d58dd426ff4814cb53.png"
+    },
+    {
       "address": "0x1a9022A1552Ca46580615cA972dD36830206094C",
       "name": "Chicago Bears",
       "symbol": "CHI",
@@ -5612,6 +5976,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xf4ad5a6aa3d66aa2730752f66e795748c1ceee39.png"
     },
     {
+      "address": "0xF4f8c66085910d583c01f3b4e44Bf731D4e2c565",
+      "name": "Wrapped Rocket Lab USA Inc ST0x",
+      "symbol": "wtRKLB",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xf4f8c66085910d583c01f3b4e44bf731d4e2c565.png"
+    },
+    {
       "address": "0xFCB65C81C73C328C284aDffFCDd1E846F0508552",
       "name": "Buffalo Bills",
       "symbol": "BUF",
@@ -5844,6 +6216,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xe2706dc55d4e3b7e5afc5f8103251e139c6ffbd8.png"
     },
     {
+      "address": "0xeE8F4eC5672F09119b96Ab6fB59C27E1b7e44b61",
+      "name": "Gauntlet USDC Prime",
+      "symbol": "gtUSDCp",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61.png"
+    },
+    {
       "address": "0xeb72Fa3D52b50A13B7c5a04D5E32044987d5f5a0",
       "name": "YieldMax Universe Fund of Option Income ETFs Tokenized by Sailing",
       "symbol": "YMAXs",
@@ -5898,6 +6278,14 @@
       "decimals": 6,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2.png"
+    },
+    {
+      "address": "0xfec440FdF48860FF6E2265BD1ef9Cae8bB2cCe8a",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xfec440fdf48860ff6e2265bd1ef9cae8bb2cce8a.png"
     },
     {
       "address": "0x015461a28351bc444Ddb236e1C516B3036425B5F",
@@ -6463,6 +6851,15 @@
       "logoURI": "https://cdn.oku.trade/logos/9745/0xebfc8c2fe73c431ef2a371aea9132110aab50dca.png"
     },
     {
+      "address": "0xb77E872A68C62CfC0dFb02C067Ecc3DA23B4bbf3",
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "decimals": 18,
+      "explorer": "https://plasmascan.to/token/0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3",
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3.png"
+    },
+    {
       "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
       "name": "BANKLESS",
       "symbol": "BANKLESS",
@@ -6470,6 +6867,35 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
+    },
+    {
+      "address": "0x5f1ab62C3159eBE04aFF14Beef84b0b60de63DDF",
+      "name": "Staked USDM",
+      "symbol": "sUSDM",
+      "decimals": 12,
+      "explorer": "https://hyperscan.com/token/0x5f1ab62c3159ebe04aff14beef84b0b60de63ddf",
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0x5f1ab62c3159ebe04aff14beef84b0b60de63ddf.png"
+    },
+    {
+      "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
+      "name": "Staked KNTQ",
+      "symbol": "sKNTQ",
+      "decimals": 18,
+      "website": "https://kinetiq.xyz",
+      "description": "Staked KNTQ (sKNTQ) is the staked version of Kinetiq's governance token, earning protocol rewards on HyperEVM.",
+      "explorer": "https://hyperevmscan.io/token/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f",
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f.png"
+    },
+    {
+      "address": "0x9628BBa16DB41EA7fe1FD84f9CE53bC27c63f59b",
+      "name": "Derive",
+      "symbol": "DRV",
+      "decimals": 18,
+      "explorer": "https://hyperevmscan.io/token/0x9628bba16db41ea7fe1fd84f9ce53bc27c63f59b",
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0x9628bba16db41ea7fe1fd84f9ce53bc27c63f59b.png"
     },
     {
       "address": "0xd0Ee0CF300DFB598270cd7F4D0c6E0D8F6e13f29",
